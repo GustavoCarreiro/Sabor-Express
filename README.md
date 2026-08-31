@@ -37,7 +37,7 @@ Você precisará ter o **Python 3** instalado em sua máquina.
 
 1. **Clone o repositório:**
 
-git clone [git@github.com:GustavoCarreiro/Sabor-Express.git]
+git clone [git@github.com:GustavoCarreiro/Sabor-Express.git](git@github.com:GustavoCarreiro/Sabor-Express.git)
 
 ---
 
