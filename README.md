@@ -33,12 +33,6 @@ O **Sabor Express** foi desenvolvido para simular o gerenciamento de um restaura
 
 Você precisará ter o **Python 3** instalado em sua máquina.
 
-### Passo a Passo
-
-1. **Clone o repositório:**
-
-  [git@github.com:GustavoCarreiro/Sabor-Express.git](git@github.com:GustavoCarreiro/Sabor-Express.git)
-
 ---
 
 ## 👤 Autor
