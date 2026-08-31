@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## 📌 Sobre o Projeto: 
 
-O **Sabor Express** foi desenvolvido para simular o gerenciamento de um restaurante, permitindo cadastrar estabelecimentos, alternar seus status de funcionamento (ativo/inativo) e listar as opções cadastradas de forma simples e organizada no terminal.
+> O **Sabor Express** foi desenvolvido para simular o gerenciamento de um restaurante, permitindo cadastrar estabelecimentos, alternar seus status de funcionamento (ativo/inativo) e listar as opções cadastradas de forma simples e organizada no terminal.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades: 
 
 - [x] **Cadastrar Restaurante:** Registro de novos restaurantes com nome e categoria.
 - [x] **Listar Restaurantes:** Exibição da lista de restaurantes cadastrados com status (Ativo/Inativo).
@@ -19,7 +19,7 @@ O **Sabor Express** foi desenvolvido para simular o gerenciamento de um restaura
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas: 
 
 - **Linguagem:** [Python 3](https://www.python.org/)
 - **Paradigma:** Orientação a Objetos / Programação Estruturada
@@ -27,11 +27,11 @@ O **Sabor Express** foi desenvolvido para simular o gerenciamento de um restaura
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto: 
 
-### Pré-requisitos
+### Pré-requisitos: 
 
-Você precisará ter o **Python 3** instalado em sua máquina.
+> Para executar esse projeto, você precisará ter o **Python 3** instalado em sua máquina. 
 
 ---
 
