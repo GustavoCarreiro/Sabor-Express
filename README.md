@@ -35,6 +35,6 @@ Você precisará ter o **Python 3** instalado em sua máquina.
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Autor:
 
 - **Gustavo Carreiro**
